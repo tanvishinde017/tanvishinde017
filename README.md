@@ -36,7 +36,6 @@
       <h3>🛠 Infrastructure Focus</h3>
       <ul>
         <li><b>DeepShield-AI:</b> Image Forensic Detection</li>
-        <li><b>MarineAI:</b> 3D Data Visualization</li>
         <li><b>Code Alpha:</b> CI/CD Automation</li>
       </ul>
     </td>
