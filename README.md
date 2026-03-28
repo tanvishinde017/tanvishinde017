@@ -15,16 +15,16 @@
 
 ## 🚀 About Me
 
-🎓 BSc IT Student passionate about **real-world tech solutions** 💻 Interested in **Cloud, DevOps & Backend Development** ⚙️ Love working on **automation, CI/CD & scalable systems** 📈 Always learning and growing in tech  
+🎓 **BSc IT Student** passionate about **real-world tech solutions** 💻 Interested in **Cloud, DevOps & Backend Development** ⚙️ Love working on **automation, CI/CD & scalable systems** 📈 Always learning and growing in tech  
 
 ---
 
 ## 🔥 What I'm Doing
 
-<table>
+<table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Projects & Goals</h3>
+      <h3>🚀 Goals & Focus</h3>
       <ul>
         <li>Building <b>DevOps & Cloud Projects</b></li>
         <li>Learning <b>Terraform | AWS | Azure</b></li>
@@ -33,10 +33,10 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🛠 Infrastructure Focus</h3>
+      <h3>🏗️ Current Projects</h3>
       <ul>
-        <li><b>DeepShield-AI:</b> Image Forensic Detection</li>
-        <li><b>Code Alpha:</b> CI/CD Automation</li>
+        <li><b>DeepShield-AI:</b> Forensic Image Detector</li>
+        <li><b>Code Alpha:</b> CI/CD using Azure & GitHub</li>
       </ul>
     </td>
   </tr>
@@ -44,19 +44,18 @@
 
 ---
 
-## 💻 Advanced Tech Stack
+## 💻 Professional Tech Stack
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="25%"><b>Programming</b></td>
-    <td align="center" width="25%"><b>Cloud</b></td>
-    <td align="center" width="25%"><b>DevOps</b></td>
-    <td align="center" width="25%"><b>Database</b></td>
+    <td align="center" width="25%" bgcolor="#121212"><b>Programming</b></td>
+    <td align="center" width="25%" bgcolor="#121212"><b>Cloud</b></td>
+    <td align="center" width="25%" bgcolor="#121212"><b>DevOps</b></td>
+    <td align="center" width="25%" bgcolor="#121212"><b>Database</b></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Python-00ff7f?style=for-the-badge&logo=python&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/FastAPI-00ff7f?style=flat&logo=fastapi&logoColor=black" />
+      <img src="https://img.shields.io/badge/Python-00ff7f?style=for-the-badge&logo=python&logoColor=black" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/AWS-00ff7f?style=for-the-badge&logo=amazonaws&logoColor=black" /><br>
@@ -76,15 +75,15 @@
 
 ---
 
-## 📊 GitHub Ecosystem
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvishinde017&show_icons=true&theme=radical&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvishinde017&layout=compact&theme=radical&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvishinde017&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvishinde017&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tanvishinde017&theme=radical&border_radius=10" width="100%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tanvishinde017&theme=tokyonight&border_radius=10" width="100%" />
 </p>
 
 ---
