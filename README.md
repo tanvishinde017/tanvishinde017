@@ -1,99 +1,58 @@
-<!-- 💚 GREEN Animated Typing Name -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Tanavi+Shinde;Future+DevOps+Engineer;Cloud+%7C+Python+%7C+Automation;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Tanavi+Shinde;Future+DevOps+Engineer;Cloud+%7C+Python+%7C+Automation;Building+Scalable+Solutions" />
 </h1>
 
----
-
-<!-- 💚 Profile Views (FIXED) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tanvishinde017&label=Profile%20Views&color=00ff7f&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Professional Overview
 
-🎓 BSc IT Student passionate about **real-world tech solutions**  
-💻 Interested in **Cloud, DevOps & Backend Development**  
-⚙️ Love working on **automation, CI/CD & scalable systems**  
-📈 Always learning and growing in tech  
+I am a **BSc IT student** and aspiring **DevOps Engineer** focused on bridging the gap between development and operations. My passion lies in automating workflows, managing cloud infrastructure, and building resilient systems that scale.
 
----
-
-## 🔥 What I'm Doing
-
-🚀 Building **DevOps & Cloud Projects**  
-☁️ Learning **Terraform | AWS | Azure**  
-🐍 Improving **Python Backend Skills**  
-📊 Exploring **Monitoring & CI/CD Pipelines**  
+* 🔭 **Currently building:** Automated CI/CD pipelines and Cloud-native applications.
+* ⚡ **Focus areas:** Infrastructure as Code (Terraform), Containerization, and AI forensics.
+* 🌱 **Learning:** Advanced AWS architecture and Kubernetes orchestration.
 
 ---
 
-## 🌐 Connect With Me
+## 🛠 Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+
+---
+
+## 📂 Key Projects
+
+* **DeepShield-AI-Image-Detector** – An advanced forensic tool for AI image classification.
+* **MarineAI Application** – Full-stack platform featuring 3D visualizations and FastAPI backends.
+* **Code Alpha CI/CD** – Implementing automated deployment pipelines using Azure and GitHub integration.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvishinde017&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvishinde017&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect & Collaborate
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tanavi-shinde-84683b347/">
-    <img src="https://img.shields.io/badge/LinkedIn-Tanavi%20Shinde-00C2FF?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://instagram.com/tanvishinde017">
-    <img src="https://img.shields.io/badge/Instagram-tanvishinde017-FF1493?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tanvishinde1560@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-00ff7f?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-00FF7F?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
-
----
-
-## 💻 Tech Stack
-
-### 🧠 Programming
-![Python](https://img.shields.io/badge/Python-00ff7f?style=for-the-badge&logo=python&logoColor=black)
-
-### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-00ff7f?style=for-the-badge&logo=amazonaws&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-00ff7f?style=for-the-badge&logo=microsoftazure&logoColor=black)
-
-### ⚙️ DevOps
-![Docker](https://img.shields.io/badge/Docker-00ff7f?style=for-the-badge&logo=docker&logoColor=black)
-![Jenkins](https://img.shields.io/badge/Jenkins-00ff7f?style=for-the-badge&logo=jenkins&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-00ff7f?style=for-the-badge&logo=githubactions&logoColor=black)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-00ff7f?style=for-the-badge&logo=mysql&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-00ff7f?style=for-the-badge&logo=redis&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvishinde017&show_icons=true&theme=radical" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tanvishinde017&theme=radical" />
-</p>
-
----
-
-## 🧠 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvishinde017&layout=compact&theme=radical" />
-</p>
-
----
-
-## ✨ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
----
-
-## 💡 Fun Section
-
-```diff
-+ Dream: DevOps Engineer 🚀
-+ Focus: Cloud + Automation ☁️
-+ Goal: Build Scalable Systems ⚙️
