@@ -1,10 +1,11 @@
+<!-- 🔥 BLACK STYLE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=250&section=header&text=Tanavi%20Shinde&fontSize=80&animation=fadeIn&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=Tanavi%20Shinde&fontSize=70&fontColor=00FF7F&animation=fadeIn" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Tanavi+Shinde;Future+DevOps+Engineer;Cloud+%7C+Python+%7C+Automation;Building+Real+World+Projects" />
-</h1>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=650&lines=Future+DevOps+Engineer;Cloud+%7C+Automation+%7C+Backend;Building+Scalable+Systems;Always+Learning+🚀" />
+</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tanvishinde017&label=Profile%20Views&color=00ff7f&style=for-the-badge" />
@@ -15,63 +16,62 @@
 
 ## 🚀 About Me
 
-🎓 **BSc IT Student** passionate about **real-world tech solutions** 💻 Interested in **Cloud, DevOps & Backend Development** ⚙️ Love working on **automation, CI/CD & scalable systems** 📈 Always learning and growing in tech  
+🎓 BSc IT Student passionate about **real-world tech solutions**  
+☁️ Focused on **Cloud, DevOps & Backend Development**  
+⚙️ Love building **automation, CI/CD & scalable systems**  
+📈 Continuously learning & growing in tech  
 
 ---
 
-## 🔥 What I'm Doing
+## 🔥 Current Focus
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Goals & Focus</h3>
-      <ul>
-        <li>Building <b>DevOps & Cloud Projects</b></li>
-        <li>Learning <b>Terraform | AWS | Azure</b></li>
-        <li>Improving <b>Python Backend Skills</b></li>
-        <li>Exploring <b>Monitoring & CI/CD Pipelines</b></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏗️ Current Projects</h3>
-      <ul>
-        <li><b>DeepShield-AI:</b> Forensic Image Detector</li>
-        <li><b>Code Alpha:</b> CI/CD using Azure & GitHub</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- 🚀 DevOps & Cloud Projects  
+- ☁️ AWS | Azure | Terraform  
+- 🐳 Containerization & Kubernetes  
+- 📊 Monitoring & Observability  
+- ⚡ CI/CD Pipelines  
 
 ---
 
-## 💻 Professional Tech Stack
+## 💻 DevOps & Cloud Tech Stack
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%" bgcolor="#121212"><b>Programming</b></td>
-    <td align="center" width="25%" bgcolor="#121212"><b>Cloud</b></td>
-    <td align="center" width="25%" bgcolor="#121212"><b>DevOps</b></td>
-    <td align="center" width="25%" bgcolor="#121212"><b>Database</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-00ff7f?style=for-the-badge&logo=python&logoColor=black" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS-00ff7f?style=for-the-badge&logo=amazonaws&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/Azure-00ff7f?style=for-the-badge&logo=microsoftazure&logoColor=black" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Docker-00ff7f?style=for-the-badge&logo=docker&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/Jenkins-00ff7f?style=for-the-badge&logo=jenkins&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/GitHub_Actions-00ff7f?style=for-the-badge&logo=githubactions&logoColor=black" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MySQL-00ff7f?style=for-the-badge&logo=mysql&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/Redis-00ff7f?style=for-the-badge&logo=redis&logoColor=black" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+
+### 🧠 Programming
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff7f" />
+
+### ☁️ Cloud Platforms
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00ff7f" />
+<img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=00ff7f" />
+
+### ⚙️ DevOps Tools
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff7f" />
+<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00ff7f" />
+<img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=00ff7f" />
+<img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=00ff7f" />
+
+### 🏗️ Infrastructure & OS
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff7f" />
+<img src="https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=00ff7f" />
+
+### 📊 Monitoring
+<img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=00ff7f" />
+<img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=00ff7f" />
+
+### 🗄️ Database
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff7f" />
+<img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=00ff7f" />
+
+</p>
+
+---
+
+## 🏗️ Projects
+
+- 🔍 **DeepShield-AI** – AI Forensic Image Detector  
+- ⚙️ **CI/CD Pipeline** – Azure + GitHub Actions  
+- ☁️ **Cloud Deployments** – AWS + Terraform  
+- 📊 **Monitoring Stack** – Prometheus + Grafana  
 
 ---
 
@@ -92,13 +92,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tanavi-shinde-84683b347/">
-    <img src="https://img.shields.io/badge/LinkedIn-Tanavi%20Shinde-00C2FF?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Tanavi%20Shinde-000000?style=for-the-badge&logo=linkedin&logoColor=00ff7f" />
   </a>
   <a href="mailto:tanvishinde1560@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-00ff7f?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-000000?style=for-the-badge&logo=gmail&logoColor=00ff7f" />
   </a>
   <a href="https://instagram.com/tanvishinde017">
-    <img src="https://img.shields.io/badge/Instagram-tanvishinde017-FF1493?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-tanvishinde017-000000?style=for-the-badge&logo=instagram&logoColor=00ff7f" />
   </a>
 </p>
 
