@@ -42,8 +42,7 @@
 
 ## 🏗️ Projects
 
-- 🔍 DeepShield-AI – AI Forensic Image Detector  
-- ⚙️ CI/CD Pipeline – Azure + GitHub Actions  
+- ⚙️ CI/CD Pipeline – AWS + GitHub Actions  
 - ☁️ Cloud Deployments – AWS + Terraform  
 - 📊 Monitoring Stack – Prometheus + Grafana  
 
