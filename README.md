@@ -12,9 +12,9 @@
 
 ---
 
-<!-- TYPING -->
+  <!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=6e40c9&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer;Cloud+%7C;Building+Scalable+Systems;Learning+%26+Shipping+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=6e40c9&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer;Cloud+%7C+Automation+%7C+Backend;Building+Scalable+Systems;Learning+%26+Shipping+Projects+🚀" />
 </p>
 
 ---
@@ -59,6 +59,10 @@ AI-powered system to detect real vs AI-generated images and videos.
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvishinde017&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=tanvishinde017&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanvishinde017&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
