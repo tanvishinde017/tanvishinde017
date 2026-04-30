@@ -1,11 +1,30 @@
-<!-- HEADER -->
+<!-- HERO HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=Tanavi%20Shinde&fontSize=60&fontColor=00FF7F&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6e40c9&height=250&section=header&text=Tanavi%20Shinde&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20AI%20%7C%20Backend&descAlignY=60&descSize=20" />
 </p>
+
+<!-- BUTTONS -->
+<p align="center">
+
+<a href="https://your-portfolio-link.com">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-8A2BE2?style=for-the-badge" />
+</a>
+
+<a href="mailto:tanvishinde1560@gmail.com">
+  <img src="https://img.shields.io/badge/📄_Resume-View-1E90FF?style=for-the-badge" />
+</a>
+
+<img src="https://img.shields.io/badge/📍_Based_In-India-228B22?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/💻_Coding-Daily-FF8C00?style=for-the-badge" />
+
+</p>
+
+---
 
 <!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer;Cloud+%7C+Automation+%7C+Backend;Building+Scalable+Systems;Learning+%26+Shipping+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=6e40c9&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer;Cloud+%7C+Automation+%7C+Backend;Building+Scalable+Systems;Learning+%26+Shipping+Projects+🚀" />
 </p>
 
 ---
@@ -100,5 +119,5 @@ AI-powered system to detect real vs AI-generated images and videos.
 ## ⭐ Thanks for Visiting!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00FF7F&height=120&section=footer"/>
 </p>
