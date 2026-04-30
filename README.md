@@ -1,8 +1,15 @@
 <!-- HERO HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6e40c9&height=250&section=header&text=Tanavi%20Shinde&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20AI%20%7C%20Backend&descAlignY=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0D1117,100:0D1117&height=200&section=header&text=Tanavi%20Shinde&fontSize=50&fontColor=00ff88&animation=fadeIn" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF88&center=true&vCenter=true&lines=DevOps+Engineer;Cloud;AI" />
+</p>
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" width="40"/>
+</p>
 <!-- BUTTONS -->
 <p align="center">
 
