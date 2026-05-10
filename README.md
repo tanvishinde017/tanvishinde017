@@ -104,7 +104,7 @@ Built real-time monitoring dashboards for performance tracking, alerting, and sy
 ### 🤖 DeepShield — AI Detection System
 **Stack:** Python · Computer Vision · Deep Learning
 
-AI-powered system to detect real vs AI-generated images and videos. Built to combat deepfakes using classification models trained on synthetic and authentic media.
+AI-powered system to detect real vs AI-generated images . Built to combat deepfakes using classification models trained on synthetic and authentic media.
 
 </td>
 </tr>
