@@ -80,6 +80,19 @@ location: India 🇮🇳
 - 🐍 Backend: Python | Flask | MySQL
 
 ---
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tanvishinde017&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvishinde017&theme=tokyonight&hide_border=true" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvishinde017&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
 
 <div align="center">
 
