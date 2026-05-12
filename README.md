@@ -17,12 +17,37 @@
 
 ## 👩‍💻 About Me
 
-I’m **Tanavi Shinde**, an aspiring **DevOps Engineer** and **Cloud Enthusiast** from India 🇮🇳, currently pursuing BSc IT. I’m passionate about building scalable, automated, and production-ready systems using modern DevOps and cloud technologies.
-
-I focus on **Cloud Computing (AWS & Azure), CI/CD pipelines, Docker, Kubernetes, and Infrastructure as Code (Terraform & Ansible)**. I enjoy learning by building real-world projects and improving system reliability through automation.
-
-**Goal:** Become a skilled DevOps/Cloud Engineer and work on large-scale, high-impact systems. 🚀
-
+```yaml
+┌─────────────────────────────────────────────────────────────┐
+│                    tanavi@devops:~$                          │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  identity:                                                  │
+│    name    : Tanavi Shinde                                  │
+│    role    : Aspiring DevOps Engineer                       │
+│    degree  : BSc Information Technology                     │
+│    location: India 🇮🇳                                      │
+│                                                             │
+│  vision:                                                    │
+│    mission : Build scalable, automated cloud infrastructure │
+│    mindset : "Automate everything. Break things. Learn."    │
+│                                                             │
+│  passions:                                                  │
+│    - Cloud Infrastructure (AWS, Azure)                      │
+│    - CI/CD & Automation Pipelines                           │
+│    - Containerization & Kubernetes                          │
+│    - Infrastructure as Code (Terraform, Ansible)            │
+│    - System Design & Scalability                            │
+│                                                             │
+│  currently_learning:                                        │
+│    ├── Docker & Kubernetes (advanced patterns)              │
+│    ├── Terraform — Production IaC                           │
+│    ├── GitOps with ArgoCD                                   │
+│    └── Cloud-Native Architecture Patterns                   │
+│                                                             │
+│  status: actively_seeking_opportunities → true              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
