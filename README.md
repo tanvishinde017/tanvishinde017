@@ -42,7 +42,7 @@
 │  currently_learning:                                        │
 │    ├── Docker & Kubernetes (advanced patterns)              │
 │    ├── Terraform — Production IaC                           │
-│    ├── GitOps with ArgoCD                                   │
+│    ├── GitOps                                               │
 │    └── Cloud-Native Architecture Patterns                   │
 │                                                             │
 │  status: actively_seeking_opportunities → true              │
@@ -150,7 +150,7 @@
 
   [✅] CI/CD Pipelines — GitHub Actions & Jenkins
   [✅] Terraform — Infrastructure as Code
-  [🔄] Kubernetes — Orchestration & Helm Charts       ← currently here
+  [🔄] Kubernetes — Orchestration & Helm Charts       
   [🔄] Monitoring with Prometheus & Grafana
   [⏳] GitOps with ArgoCD
   [⏳] Advanced AWS / Azure Architecture
@@ -158,8 +158,6 @@
 2026 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
   [⏳] AWS Solutions Architect Certification
-  [⏳] CKA — Certified Kubernetes Administrator
-  [⏳] HashiCorp Terraform Associate Certification
   [⏳] Full Production-Scale Cloud Project
 
 Legend: ✅ Completed  🔄 In Progress  ⏳ Planned
