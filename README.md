@@ -1,141 +1,88 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6e40c9,100:00ff88&height=200&section=header&text=Tanavi%20Shinde&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20DevOps%20Engineer%20|%20Cloud%20%7C%20Automation%20%7C%20Backend&descAlignY=58&descSize=18&descColor=aaaaaa" />
+<!-- ⭐ PREMIUM NAME HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:6e40c9,100:00ff88&height=220&section=header&text=TANAVI%20SHINDE&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20DevOps%20Engineer%20|%20Cloud%20Architect%20in%20Progress&descAlignY=65&descSize=20&descColor=aaaaaa" />
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=6e40c9&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer;Cloud+%7C+Automation+%7C+Backend+Developer;Building+Scalable+Systems;Learning+%26+Shipping+Projects+🚀)
+<!-- ⚡ ANIMATED INTRO -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6E40C9&center=true&vCenter=true&width=850&lines=DevOps+Engineer+in+the+Making;Cloud+%7C+Automation+%7C+Scalable+Systems;Building+Production-Ready+Projects;Infrastructure+%7C+CI%2FCD+%7C+Kubernetes;Learning+Every+Day+%F0%9F%9A%80)
 
 <br/>
 
-![Location](https://img.shields.io/badge/📍_India-228B22?style=for-the-badge)
-![Status](https://img.shields.io/badge/Open_to_Opportunities-6e40c9?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Cloud_+_DevOps-00ff88?style=for-the-badge&labelColor=0D1117)
+<!-- 🌐 STATUS BADGES -->
+![Profile Views](https://komarev.com/ghpvc/?username=tanvishinde017&label=Profile%20Views&color=6e40c9&style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-00ff88?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-0D1117?style=for-the-badge&logo=linux)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 BIG INTRO — About Me
 
 ```yaml
-name       : Tanavi Shinde
-role       : BSc IT Student | Aspiring DevOps Engineer
-location   : India 🇮🇳
-focus      : Cloud Computing · DevOps · Backend Systems
-interests  : Automation · CI/CD · Scalable Infrastructure
-mindset    : "Build. Break. Learn. Repeat."
+identity:
+  name: Tanavi Shinde
+  role: Aspiring DevOps Engineer
+  education: BSc Information Technology
+
+vision:
+  goal: Become a Cloud & DevOps Engineer building scalable systems
+  mindset: "Automate everything. Learn continuously. Build real systems."
+
+interests:
+  - Cloud Infrastructure (AWS, Azure)
+  - CI/CD & Automation Pipelines
+  - Containerization & Kubernetes
+  - System Design & Scalability
+
+currently_learning:
+  - Docker & Kubernetes in depth
+  - Terraform for Infrastructure as Code
+  - Advanced CI/CD pipelines
+  - Cloud-native architecture
+
+location: India 🇮🇳
 ```
 
 ---
 
-## 💻 Tech Stack
+## 🌟 PROFESSIONAL SUMMARY
 
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+💡 Passionate about building **real-world production systems** using modern DevOps practices.
 
-### 🐳 DevOps & Containers
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+⚙️ Focused on:
+- Cloud Infrastructure Design
+- CI/CD Automation Pipelines
+- Scalable Backend Systems
+- Containerized Deployments
 
-### ⚙️ CI/CD & Monitoring
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-### 🐍 Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+🚀 I enjoy transforming ideas into **automated, deployable, and scalable systems**.
 
 ---
 
-## 🏗️ Featured Projects
+## 🎯 WHAT MAKES ME DIFFERENT
 
-### 🐳 Flask Deployment Automation
-- Dockerized Flask application
-- Automated deployment using Ansible
-- Hosted on AWS infrastructure
-
----
-
-### ⚙️ CI/CD Pipeline
-- GitHub Actions workflow
-- Automated build, test, deploy pipeline
-- Continuous delivery setup
+- 🔹 I don’t just learn tools — I build systems with them
+- 🔹 I focus on automation-first engineering
+- 🔹 I break things to understand how they scale
+- 🔹 I think in pipelines, not just code
 
 ---
 
-### ☁️ Infrastructure as Code
-- Terraform-based AWS provisioning
-- Modular and reusable architecture
-- Scalable cloud setup
+## ⚡ QUICK SNAPSHOT
 
----
-
-### 📊 Monitoring System
-- Prometheus + Grafana dashboards
-- Real-time system metrics
-- Performance tracking & alerts
-
----
-
-### 🤖 DeepShield AI System
-- Deepfake detection using AI
-- Computer Vision + Deep Learning
-- Image classification model pipeline
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tanvishinde017&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvishinde017&theme=tokyonight&hide_border=true" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvishinde017&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tanvishinde017&theme=onestar&no-frame=true&column=6" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6e40c9?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanavi-shinde-84683b347/)
-[![Gmail](https://img.shields.io/badge/Gmail-ff4b4b?style=for-the-badge&logo=gmail)](mailto:tanvishinde1560@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-ff007f?style=for-the-badge&logo=instagram)](https://instagram.com/tanvishinde017)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/tanvishinde017)
-
-</div>
+- ☁️ Cloud: AWS | Azure
+- 🐳 Containers: Docker | Kubernetes
+- ⚙️ CI/CD: GitHub Actions | Jenkins
+- 📦 IaC: Terraform | Ansible
+- 🐍 Backend: Python | Flask | MySQL
 
 ---
 
 <div align="center">
 
-> *“Learn deeply, build consistently, and grow endlessly.”*
-
-<br/>
-
-⭐ Thanks for visiting my profile!
+> *“Infrastructure is not built — it is automated.”*
 
 </div>
