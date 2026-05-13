@@ -1,5 +1,26 @@
 
-````md
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1a0a3e,80:6e40c9,100:00ff88&height=260&section=header&text=Tanavi%20Shinde&fontSize=72&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Aspiring%20DevOps%20Engineer%20%7C%20Cloud%20Architect%20in%20Progress&descAlignY=65&descSize=22&descColor=c3b1e1" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=900&lines=🚀+DevOps+Engineer+in+the+Making;☁️+Cloud+%7C+Automation+%7C+Scalable+Systems;🐳+Docker+%7C+Kubernetes+%7C+Terraform;⚙️+CI%2FCD+Pipelines+%7C+Infrastructure+as+Code;📦+Building+Production-Ready+Systems)](https://git.io/typing-svg)
+
+<br/><br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=tanvishinde017&label=Profile+Views&color=6e40c9&style=for-the-badge&logo=eye)](https://github.com/tanvishinde017)
+
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Opportunities-00ff88?style=for-the-badge&logo=checkmarx&logoColor=black)](mailto:tanvishinde017@gmail.com)
+
+[![Focus](https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-6e40c9?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/tanvishinde017)
+
+[![India](https://img.shields.io/badge/Based%20In-India%20🇮🇳-FF9933?style=for-the-badge)](https://github.com/tanvishinde017)
+
+</div>
+
+---
+
 # 👩‍💻 About Me
 
 ```yaml
@@ -25,9 +46,7 @@ mindset:
   "Build. Automate. Scale. Repeat."
 ````
 
-```
-```
-
+---
 
 # 🛠️ Tech Stack
 
@@ -151,4 +170,4 @@ mindset:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00ff99,50:6d28d9,100:0f172a" />
 
 </div>
-``` 
+```
