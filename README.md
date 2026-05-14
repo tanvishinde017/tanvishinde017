@@ -101,7 +101,7 @@ mindset:
 
 
 </div>
----
+
 
 # 📊 Contribution Graph
 
