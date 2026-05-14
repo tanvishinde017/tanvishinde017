@@ -88,18 +88,21 @@ mindset:
 
 # 📈 GitHub Analytics
 
+# 📈 GitHub Analytics
+
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tanvishinde017&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ff99&icon_color=6d28d9&text_color=ffffff"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanvishinde017&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ff99&icon_color=6d28d9&text_color=ffffff"/>
 
-<img height="170em" src="https://streak-stats.demolab.com?user=tanvishinde017&theme=tokyonight&hide_border=true&background=0D1117&ring=00ff99&fire=6d28d9&currStreakLabel=00ff99"/>
+<img height="170" src="https://streak-stats.demolab.com?user=tanvishinde017&theme=tokyonight&hide_border=true&background=0D1117&ring=00ff99&fire=6d28d9&currStreakLabel=00ff99"/>
 
 <br/><br/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvishinde017&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ff99&text_color=ffffff"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvishinde017&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ff99&text_color=ffffff"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvishinde017&theme=tokyonight&hide_border=true&background=0D1117&ring=00ff99&fire=6d28d9&currStreakLabel=00ff99"/>
 
 </div>
-
 ---
 
 # 📊 Contribution Graph
