@@ -112,11 +112,11 @@ philosophy: "Automate ruthlessly. Observe everything. Iterate fast."
 ## Roadmap
 
 ```
-✅  2024 — Foundations
+✅    Foundations
     Linux & Bash Scripting · Git & Version Control
     Python Automation · Docker · AWS Core Services
 
-🔄  2025 — Building (In Progress)
+🔄   Building (In Progress)
     ✅ CI/CD Pipelines (GitHub Actions, Jenkins)
     ✅ Infrastructure as Code (Terraform)
     🔄 Kubernetes & Helm
