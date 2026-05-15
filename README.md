@@ -1,159 +1,146 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1a0a3e,80:6e40c9,100:00ff88&height=260&section=header&text=Tanavi%20Shinde&fontSize=72&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Aspiring%20DevOps%20Engineer%20%7C%20Cloud%20Architect%20in%20Progress&descAlignY=65&descSize=22&descColor=c3b1e1" />
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a0533,100:6e40c9&height=200&section=header&text=Tanavi%20Shinde&fontSize=64&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Infrastructure%20%E2%80%A2%20Automation&descAlignY=62&descSize=18&descColor=a78bfa" />
+</picture>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=900&lines=🚀+DevOps+Engineer+in+the+Making;☁️+Cloud+%7C+Automation+%7C+Scalable+Systems;🐳+Docker+%7C+Kubernetes+%7C+Terraform;⚙️+CI%2FCD+Pipelines+%7C+Infrastructure+as+Code;📦+Building+Production-Ready+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+scalable+cloud+infrastructure;Automating+everything+that+can+be+automated;Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+ArgoCD;CI%2FCD+Pipelines+%E2%80%A2+GitOps+%E2%80%A2+IaC)](https://git.io/typing-svg)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=tanvishinde017&label=Profile+Views&color=6e40c9&style=flat-square)](https://github.com/tanvishinde017)
+&nbsp;
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Opportunities-%E2%9C%93-22c55e?style=flat-square&logoColor=white)](mailto:tanvishinde017@gmail.com)
+&nbsp;
+[![Location](https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-FF9933?style=flat-square)](https://github.com/tanvishinde017)
+
+</div>
+
+---
+
+## About
+
+I'm an aspiring DevOps Engineer with a BSc in Information Technology, focused on building reliable, automated, and scalable cloud systems. I enjoy bridging the gap between development and operations — turning manual workflows into pipelines and architectures that just work.
+
+Currently deepening my expertise in Kubernetes, GitOps with ArgoCD, and production-grade Terraform patterns. I believe in infrastructure as code, observability-first thinking, and systems that scale without drama.
+
+```yaml
+name:     Tanavi Shinde
+role:     Aspiring DevOps Engineer
+degree:   BSc Information Technology
+location: India 🇮🇳
+status:   Open to opportunities
+
+interests:
+  - Cloud Infrastructure (AWS · Azure)
+  - Container Orchestration (Kubernetes · Docker)
+  - Infrastructure as Code (Terraform · Ansible)
+  - CI/CD & GitOps (GitHub Actions · Jenkins · ArgoCD)
+  - Monitoring & Observability (Prometheus · Grafana)
+
+currently_learning:
+  - Kubernetes advanced patterns & Helm
+  - GitOps workflows with ArgoCD
+  - Terraform at production scale
+  - Distributed systems observability
+
+philosophy: "Automate ruthlessly. Observe everything. Iterate fast."
+```
+
+---
+
+## Tech Stack
+
+#### Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+#### Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+
+#### Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+#### CI/CD & GitOps
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+
+#### Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+#### Languages & OS
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=tanvishinde017&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&count_private=true&include_all_commits=true" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvishinde017&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=e2e8f0&langs_count=8" />
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=tanvishinde017&label=Profile+Views&color=6e40c9&style=for-the-badge&logo=eye)](https://github.com/tanvishinde017)
-
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Opportunities-00ff88?style=for-the-badge&logo=checkmarx&logoColor=black)](mailto:tanvishinde017@gmail.com)
-
-[![Focus](https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-6e40c9?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/tanvishinde017)
-
-[![India](https://img.shields.io/badge/Based%20In-India%20🇮🇳-FF9933?style=for-the-badge)](https://github.com/tanvishinde017)
+<img src="https://streak-stats.demolab.com?user=tanvishinde017&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
-
-```yaml
-name: Tanavi Shinde
-role: Aspiring DevOps Engineer
-education: BSc Information Technology
-location: India 🇮🇳
-
-focus:
-  - Cloud Infrastructure
-  - DevOps Automation
-  - Kubernetes
-  - Infrastructure as Code
-  - CI/CD Pipelines
-
-currently_learning:
-  - Kubernetes Advanced Concepts
-  - Terraform Production Practices
-  - GitOps with ArgoCD
-  - Monitoring & Observability
-
-mindset:
-  "Build. Automate. Scale. Repeat."
-````
-
----
-
-# 🛠️ Tech Stack
+## Contribution Activity
 
 <div align="center">
 
-### ☁️ Cloud
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-
-### 🐳 Containers & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible\&logoColor=white)
-
-### ⚙️ CI/CD & Automation
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge\&logo=argo\&logoColor=white)
-
-### 📊 Monitoring
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
-
-### 💻 Languages & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=FFD43B)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=4EAA25)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanvishinde017&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a78bfa&line=6d28d9&point=ffffff&area=true&area_color=6d28d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
+## Roadmap
 
-# 📈 GitHub Analytics
+```
+✅  2024 — Foundations
+    Linux & Bash Scripting · Git & Version Control
+    Python Automation · Docker · AWS Core Services
 
-<div align="center">
+🔄  2025 — Building (In Progress)
+    ✅ CI/CD Pipelines (GitHub Actions, Jenkins)
+    ✅ Infrastructure as Code (Terraform)
+    🔄 Kubernetes & Helm
+    🔄 Monitoring Stack (Prometheus + Grafana)
+    ⏳ GitOps with ArgoCD
+    ⏳ Advanced Cloud Architecture
 
-<img height="170" src="https://streak-stats.demolab.com?user=tanvishinde017&theme=tokyonight&hide_border=true&background=0D1117&ring=00ff99&fire=6d28d9&currStreakLabel=00ff99"/>
-
-</div>
-
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-[![Tanavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanvishinde017\&theme=tokyo-night\&hide_border=true\&bg_color=0D1117\&color=00ff99\&line=6d28d9\&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tanvishinde017&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
-
----
-
-# 🗺️ DevOps Roadmap
-
-```text
-2024
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✅ Linux & Bash Scripting
-✅ Git & GitHub
-✅ Python Automation
-✅ Docker Fundamentals
-✅ AWS Core Services
-
-2025
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✅ CI/CD Pipelines
-✅ Terraform
-🔄 Kubernetes & Helm
-🔄 Monitoring Stack
-⏳ GitOps with ArgoCD
-⏳ Advanced Cloud Design
-
-2026
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-⏳ AWS Solutions Architect
-⏳ Production Scale Infrastructure
-⏳ Multi-Cloud Architecture
+⏳  2026 — Production Scale
+    AWS Solutions Architect Certification
+    Multi-Cloud Design Patterns
+    Platform Engineering
 ```
 
 ---
 
-# 🌐 Connect With Me
+## Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/tanvishinde017)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/tanvishinde017)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:tanvishinde017@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanavi%20Shinde-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvishinde017)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-tanvishinde017-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tanvishinde017)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-tanvishinde017%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tanvishinde017@gmail.com)
 
 </div>
 
@@ -161,7 +148,8 @@ mindset:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00ff99,50:6d28d9,100:0f172a" />
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:6e40c9,100:0D1117" />
+</picture>
 
 </div>
-```
