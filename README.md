@@ -87,12 +87,6 @@ philosophy: "Automate ruthlessly. Observe everything. Iterate fast."
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=tanvishinde017&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&count_private=true&include_all_commits=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvishinde017&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=e2e8f0&langs_count=8" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=tanvishinde017&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
