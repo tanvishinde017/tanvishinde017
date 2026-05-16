@@ -87,7 +87,7 @@ philosophy: "Automate ruthlessly. Observe everything. Iterate fast."
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tanvishinde017&theme=tokyonight&cache_seconds=1)
+![GitHub Streak](https://streak-stats.demolab.com?user=tanvishinde017&theme=tokyonight&v=2)
 </div>
 
 ---
