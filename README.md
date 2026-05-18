@@ -22,7 +22,7 @@
 
 ## About
 
-I'm an aspiring DevOps Engineer with a BSc in Information Technology, focused on building reliable, automated, and scalable cloud systems. I enjoy bridging the gap between development and operations — turning manual workflows into pipelines and architectures that just work .
+I'm an aspiring DevOps Engineer with a BSc in Information Technology, focused on building reliable, automated, and scalable cloud systems. I enjoy bridging the gap between development and operations — turning manual workflows into pipelines and architectures that just work.
 
 Currently deepening my expertise in Kubernetes, GitOps, and production-grade Terraform patterns. I believe in infrastructure as code, observability-first thinking, and systems that scale without drama.
 
